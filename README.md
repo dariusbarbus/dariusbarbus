@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Dario Simpson, AKA Darius Barbus. I'm passionate about technology and creating stuff to help people, I have worked as a video editor for more than 7 years, but, it's time for a change. I'm leaving my home country to study software engineering and turning my passion into an actual skill that can help people and businesses.
+My name is Dario Simpson, AKA Darius Barbus. I'm passionate about technology and creating stuff to help people. I have worked as a video editor for more than seven years, but it's time for a change. I'm leaving my home country to study software engineering and turning my passion into a skill that can help people and businesses.
 
 
 ## 🌐 Socials:
@@ -23,6 +23,3 @@ My name is Dario Simpson, AKA Darius Barbus. I'm passionate about technology and
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/dariusbarbus) 
