@@ -1,8 +1,9 @@
 # 💫 About Me:
 My name is Dario Simpson, AKA Darius Barbus. I'm passionate about technology and creating stuff to help people. I have worked as a video editor for more than seven years, but it's time for a change. I'm leaving my home country to study software engineering and turning my passion into a skill that can help people and businesses. 
 
-Creator of the [Antarctic Theme](https://github.com/AntarcticTheme)
-Creator of the [Home Pager](https://github.com/dariusbarbus/Home-Pager)
+- Creator of the [Antarctic Theme](https://github.com/AntarcticTheme).
+- Creator of [Date Night](https://github.com/dariusbarbus/Date-Night).
+- Creator of the [Home Pager](https://github.com/dariusbarbus/Home-Pager).
 
 
 ## 🌐 Socials:
